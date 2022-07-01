@@ -1,6 +1,6 @@
-## Analog & Digital Clock made using HTML, CSS & JS only
+## This is my new mini-project, Analog & Digital Clock under the series of [Experimantal](https://github.com/P4RT33K/Experimental)
+### I made this using HTML5, CSS3 & Vanilla JS.
 
-### Made by taking references from a youtube video about same project
+This project takes inspiration from a YouTube video, which is under same title.
 
-
-[Check Project](https://p4rt33k.github.io/Analog_and_Digital_Clock/home.html)
+Here's the [link](https://p4rt33k.github.io/Analog_and_Digital_Clock/home.html) to it!
